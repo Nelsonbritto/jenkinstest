@@ -7,6 +7,7 @@ public class gittest {
         System.out.println("testing for push code in git and github");
         System.out.println("code commit first time");
         System.out.println("code commit second time");
+        System.out.println("code commit third time");
 
     }
 }
